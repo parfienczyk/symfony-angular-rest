@@ -1,0 +1,3 @@
+api_demo_homepage:
+    pattern:  /
+    defaults: { _controller: ApiDemoBundle:Default:index }
